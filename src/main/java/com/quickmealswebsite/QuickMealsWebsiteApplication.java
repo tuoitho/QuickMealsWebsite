@@ -12,6 +12,7 @@ public class QuickMealsWebsiteApplication {
 
         //        SpringApplication.run(QuickMealsWebsiteApplication.class, args);
 
+        //        SpringApplication.run(QuickMealsWebsiteApplication.class, args);
 
 
 
