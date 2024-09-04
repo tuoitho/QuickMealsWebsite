@@ -9,7 +9,8 @@ public class QuickMealsWebsiteApplication {
     public static void main(String[] args) {
 
         SpringApplication.run(QuickMealsWebsiteApplication.class, args);
-//        SpringApplication.run(QuickMealsWebsiteApplication.class, args);
+
+        //        SpringApplication.run(QuickMealsWebsiteApplication.class, args);
 
 
 
